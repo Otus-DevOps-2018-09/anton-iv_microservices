@@ -1,0 +1,8 @@
+REPOSITORY              TAG                 IMAGE ID            CREATED             SIZE
+anton/ubuntu-tmp-file   latest              ea6f40e48f7a        13 seconds ago      116MB
+ubuntu                  16.04               a51debf7e1eb        21 hours ago        116MB
+hello-world             latest              4ab4c602aa5e        2 months ago        1.84kB
+
+HW*
+Image - snapshot
+Container - snapshot+state
